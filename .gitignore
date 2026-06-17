@@ -1,0 +1,10 @@
+# Public documentation branch
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+logs/
+*.log
+admin-cli/session.json
+admin-cli/owner_session.json
