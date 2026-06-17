@@ -24,13 +24,26 @@ No real API keys, tokens, admin sessions, private user data, build artifacts, or
 
 ## Documentation Map
 
+- [Legal and Safety Index](docs/LEGAL_INDEX.md)
 - [Terms of Service](TERMS.md)
 - [Privacy Policy](PRIVACY.md)
 - [License](LICENSE.md)
 - [Security Policy](SECURITY.md)
 - [Contact](CONTACT.md)
+- [License Reading Wiki](docs/LICENSE_READING_WIKI.md)
 - [Ecosystem Overview](docs/ECOSYSTEM.md)
 - [AI Agents](docs/AI_AGENTS.md)
 - [Public Config Template](docs/API_AND_CONFIG.md)
 - [Public Roadmap](docs/PUBLIC_ROADMAP.md)
 - [Extras](EXTRAS.md)
+
+## Fast Tags
+
+- `tos`: service rules, accounts, payments, memberships
+- `privacy`: data categories and privacy expectations
+- `license`: public documentation license and allowed reuse
+- `security`: secrets, vulnerability reporting, responsible disclosure
+- `config`: dummy environment examples
+- `agents`: public AI agent boundaries
+
+Start with [Legal and Safety Index](docs/LEGAL_INDEX.md) when you need to turn around quickly.
